@@ -1,1 +1,2 @@
 Test file 001
+This is file 002
